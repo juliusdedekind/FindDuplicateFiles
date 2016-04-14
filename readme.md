@@ -1,4 +1,4 @@
-(Not sure where I originally found this code, probably a recipe...but it had numerous bugs and most of them should be fixed)
+(Not sure where I originally found this code, probably a recipe...but it had numerous bugs which I had fixed)
 
 This script will scan a directory tree looking for duplicate files
 
